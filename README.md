@@ -79,7 +79,7 @@ $ python evaluate.py --model model.pth --testset /path/to/test-data
 - 🌎 **Multilingual Support**: Expanding the detection model for different languages and face types.
 
 ## 🤝 Contributors
-- **Livya Falodia** *(Project Lead & Developer)*  
+- **Livya Falodia**   
 - **Annu Mishra**
 
 ## 📜 License

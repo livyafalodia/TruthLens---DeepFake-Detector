@@ -1,5 +1,6 @@
-#TruthLens
+
 # DeepFake Detection System
+#TruthLens
 
 ## 📌 Overview
 In an era where AI-generated deepfakes blur the line between reality and deception, detecting manipulated media is more crucial than ever. This project leverages advanced **Deep Learning** techniques, specifically **Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs)**, to analyze videos and images, detecting deepfake manipulations with high accuracy.
